@@ -1,0 +1,95 @@
+body {
+	background-color: #FFFFFF;
+	font-family: "Montserrat-VariableFont_wght";
+}
+
+.container {
+    max-width: 1200px;
+	margin: 0 auto;
+    
+}
+
+.inheader {
+    text-align: center;
+}
+
+.inheader h1 {
+    font-size: 180px;
+}
+
+.header {
+    padding-top: 60px;
+}
+
+.wrapper {
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 79px;
+}
+
+section {
+	padding-top: 120px; 
+}
+
+.footer {
+	text-align: center;
+}
+
+.sec_wrap {
+    background-color: #FEB246;
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+    
+}
+
+.third_wrap img {
+    max-width: 700px;
+}
+
+.second_screen {
+    background: #FEB246;
+    height: 1024px;
+    justify-content: space-between;
+    display: flexbox;
+    object-fit: contain;
+}
+
+.sec_wrap img {
+    max-width: 30%;
+}
+
+.third_1 {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    align-items: center;
+}
+
+.third_screen {
+    padding-top: 120px;
+    background: #ABC5FE;
+    height: 1024px;
+    justify-content: space-between;
+    display: flexbox;
+    object-fit: contain;
+}
+
+.six_screen {
+    text-align: center;
+}
+
+.seventh_screen {
+    padding-top: 120px;
+    background: #ABC5FE;
+    height: 1024px;
+    justify-content: space-between;
+    display: flexbox;
+    object-fit: contain;
+}
+
+.six_screen {
+    height: 1024px;
+}
+
